@@ -1,0 +1,107 @@
+@keyframes eclipse{
+    0%{
+        left: -200%;
+    }
+    100%{
+        left: 0;
+    }
+}
+@keyframes sym{
+    from{
+        top: -380px;
+    }
+    to{
+        top: 100px;
+    }
+}
+
+@keyframes cloud1{
+    0%{
+        top: 0;
+    }
+    100%{
+        top: 150px;
+    }
+}
+
+@keyframes cloud2{
+    from{
+        left: -625px;
+    }
+    to{
+        left: 0;
+    }
+}
+@keyframes cloud3{
+    from{
+        right: -556px;
+    }
+    to{
+        right: 0;
+    }
+}
+@keyframes wave{
+    from{
+        bottom:-240px;
+    }
+    to{
+        bottom:0;
+    }
+}
+@keyframes eclipse2{
+    30%{
+        fill: #fff;
+        stroke:#e8382f;
+    }
+    40%{
+        fill: #e8382f;
+        stroke:#e8382f;
+    }
+    50%{
+        fill: #003548;
+        stroke:#fff;
+    }
+    60%{
+        fill: #e8382f;
+        stroke:#e8382f;
+    }
+    70%{
+        fill: #fff;
+        stroke:#E8382F;
+    }
+}
+@keyframes eclipse22{
+    30%{
+        stroke:#e8382f;
+    }
+    40%{
+        stroke:#e8382f;
+    }
+    50%{
+        stroke:#fff;
+    }
+    60%{
+        stroke:#e8382f;
+    }
+    70%{
+        stroke:#e8382f;
+    }
+}
+@keyframes eclipse3{
+    30%{
+        background-color: #fff;
+    }
+    40%{
+        background-color: #e8382f;
+    }
+    50%{
+        background-color: #003548;
+    }
+    60%{
+        background-color: #e8382f;
+    }
+    70%{
+        background-color: #fff;
+    }
+}
+
